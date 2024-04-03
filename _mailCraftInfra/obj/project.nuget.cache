@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qWiQ+9Mp5iCXmi8epdbRT1LxiG4jyAXDNde6v2QctAnm7+SOT042qexPDqXUldGFkT/txiwfHqYbDZmmj0dSxw==",
+  "dgSpecHash": "5JeHi06aS05BtoZY66zUz9rf7AtaXIQ/38I1oBQVRTcf+QsN5THSMDFSVKpOUkIk/gEMQBRLfF02Q1EMrg70LQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jessi\\OneDrive\\Documentos\\GitHub\\MailCraft\\MailCraft\\_mailCraftInfra\\_mailCraftInfra.csproj",
+  "projectFilePath": "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftInfra\\_mailCraftInfra.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

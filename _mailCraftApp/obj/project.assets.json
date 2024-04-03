@@ -450,11 +450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessi\\OneDrive\\Documentos\\GitHub\\MailCraft\\MailCraft\\_mailCraftApp\\_mailCraftApp.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftApp\\_mailCraftApp.csproj",
       "projectName": "_mailCraftApp",
-      "projectPath": "C:\\Users\\jessi\\OneDrive\\Documentos\\GitHub\\MailCraft\\MailCraft\\_mailCraftApp\\_mailCraftApp.csproj",
+      "projectPath": "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftApp\\_mailCraftApp.csproj",
       "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jessi\\OneDrive\\Documentos\\GitHub\\MailCraft\\MailCraft\\_mailCraftApp\\obj\\",
+      "outputPath": "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -475,8 +475,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\jessi\\OneDrive\\Documentos\\GitHub\\MailCraft\\MailCraft\\_mailCraftDomain\\_mailCraftDomain.csproj": {
-              "projectPath": "C:\\Users\\jessi\\OneDrive\\Documentos\\GitHub\\MailCraft\\MailCraft\\_mailCraftDomain\\_mailCraftDomain.csproj"
+            "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftDomain\\_mailCraftDomain.csproj": {
+              "projectPath": "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftDomain\\_mailCraftDomain.csproj"
             }
           }
         }

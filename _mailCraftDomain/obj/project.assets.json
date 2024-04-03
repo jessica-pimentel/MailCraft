@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jessi\\OneDrive\\Documentos\\GitHub\\MailCraft\\MailCraft\\_mailCraftDomain\\_mailCraftDomain.csproj",
+      "projectUniqueName": "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftDomain\\_mailCraftDomain.csproj",
       "projectName": "_mailCraftDomain",
-      "projectPath": "C:\\Users\\jessi\\OneDrive\\Documentos\\GitHub\\MailCraft\\MailCraft\\_mailCraftDomain\\_mailCraftDomain.csproj",
+      "projectPath": "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftDomain\\_mailCraftDomain.csproj",
       "packagesPath": "C:\\Users\\jessi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jessi\\OneDrive\\Documentos\\GitHub\\MailCraft\\MailCraft\\_mailCraftDomain\\obj\\",
+      "outputPath": "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftDomain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOAUEmm18KS4nAExukki67d3BChGGvo8BDTyhM7smwVa92u8EtNNMsOGeKwqLTGj93X4JWt9/1hhgiEZoG6I8A==",
+  "dgSpecHash": "z1DemH2MMHDDFazhcPrKRWWRkDjhBYLGG306gVzMuLrE36E0NkpUHGmjMG2iR1CEedME2oc2v0H/FYspsPrAyQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jessi\\OneDrive\\Documentos\\GitHub\\MailCraft\\MailCraft\\_mailCraftApp\\_mailCraftApp.csproj",
+  "projectFilePath": "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftApp\\_mailCraftApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jessi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\jessi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
