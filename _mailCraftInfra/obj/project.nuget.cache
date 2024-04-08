@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5JeHi06aS05BtoZY66zUz9rf7AtaXIQ/38I1oBQVRTcf+QsN5THSMDFSVKpOUkIk/gEMQBRLfF02Q1EMrg70LQ==",
+  "dgSpecHash": "EG55nGQfhX2r0A/bh04EZR+9iQe/taJvBi4EithMcBnaGVzwHbopsnDuHRmGh1poWwRkCTxehzZqVgP5I/mi9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\jessi\\source\\repos\\MailCraft\\_mailCraftInfra\\_mailCraftInfra.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jessi\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "C:\\Users\\jessi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\jessi\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\jessi\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -20,7 +20,13 @@
 
   <ItemGroup>
     <Folder Include="Extensions\Files\" />
-    <Folder Include="Service\" />
+    <Folder Include="Interfaces\Repository\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.1.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="8.0.2" />
   </ItemGroup>
 
 </Project>
