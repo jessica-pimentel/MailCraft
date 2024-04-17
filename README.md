@@ -12,3 +12,7 @@ Essa API é responsável por gerenciar configurações e criar mail. Ela oferece
 - **System.Net.Mail**: Namespace que fornece classes para enviar e-mails através do protocolo SMTP (Simple Mail Transfer Protocol), incluindo `MailMessage` para representar um e-mail, `SmtpClient` para enviar e-mails e `Attachment` para lidar com anexos.
 - **System.Net**: Namespace que fornece classes para trabalhar com redes em geral, incluindo `NetworkCredential` para fornecer credenciais de autenticação para o servidor SMTP.
 - **System.Text**: Namespace usado para manipular codificações de texto, e é usado no código fornecido para especificar a codificação UTF-8 ao definir o remetente do e-mail.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request para propor melhorias ou correções.
